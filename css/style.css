@@ -377,7 +377,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-counter .fh5co-heading-jorgef span,
 #fh5co-event .fh5co-heading-jorgef span {
-  color: rgb(202, 0, 0);
+  color: rgb(255, 255, 255);
   text-transform: uppercase;
   font-size: 15px;
   letter-spacing: 2px;
@@ -450,6 +450,7 @@ h1, h2, h3, h4, h5, h6, figure {
   float: left;
   margin-bottom: 30px;
 }
+
 
 #fh5co-counter .event-wrap .event-col-jorge,
 #fh5co-event .event-wrap .event-col-jorge {
