@@ -214,7 +214,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
-  filter: brightness(95%);
+  filter: brightness(100%);
   position: relative;
 }
 
@@ -377,7 +377,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-counter .fh5co-heading-jorgef span,
 #fh5co-event .fh5co-heading-jorgef span {
-  color: rgba(202, 0, 0, 0.918);
+  color: rgb(202, 0, 0);
   text-transform: uppercase;
   font-size: 15px;
   letter-spacing: 2px;
@@ -1208,6 +1208,7 @@ form label {
   line-height: 1.5;
   font-weight: lighter;
   color: #ffffff;
+  background-color: #00000021;
   font-family: "Sacramento", Arial, serif;
 }
 @media screen and (max-width: 768px) {
